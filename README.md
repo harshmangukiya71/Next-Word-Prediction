@@ -116,6 +116,8 @@ Raw Probabilities
       ↓
 Temperature Scaling
       ↓
+Normalization 
+      ↓
 Sorting
       ↓
 Top-P Filtering
