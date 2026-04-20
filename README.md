@@ -173,6 +173,4 @@ python your_script.py
 
 ---
 
-## ⭐ If you like this project
 
-Give it a star ⭐ and feel free to contribute!
